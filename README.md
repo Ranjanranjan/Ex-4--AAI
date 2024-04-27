@@ -1,7 +1,7 @@
 <H3>NAME: Ranjan K</H3>
 <H3>REGISTER NO.: 212222230116</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:</H3>
+<H3>DATE: 20-04-24</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
